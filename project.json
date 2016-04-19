@@ -1,0 +1,10 @@
+{
+    "name": "code22",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "code22.xml",
+    "author": "jgqueen",
+    "minimum_firmware_version": 42
+}
